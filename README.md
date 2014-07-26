@@ -10,9 +10,10 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Repository
 
-This repository contains the source code for programming assignment:
+This repository contains the following files for the programming assignment:
 
-### run_analysis.R : 
+### - run_analysis.R : 
+this is the R script file that:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -22,3 +23,6 @@ This repository contains the source code for programming assignment:
 
 ### - codebook.md : 
 this file describes the script and execution flow.
+
+### - README.md : 
+this readme file.
